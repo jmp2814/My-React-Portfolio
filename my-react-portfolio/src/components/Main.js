@@ -8,10 +8,10 @@ import CalendarImg from "../images/moment1.png";
 import NoteImg from "../images/note_taker.JPG";
 import WeatherImg from "../images/searchOne.JPG";
 import TeamImg from "../images/team1.JPG";
-import Avatar from "../images/portAvatar.JPG";
-import resumePDF from "../files/Resume_Fall_2019_school.pdf";
+import Avatar from "../images/portAvatar.jpg";
+import resumePDF from "../files/Resume Fall_2019_school.pdf";
 
-export function AboutMe() {
+export function Bio() {
   return (
     <div>
       <div className="bio-container">
@@ -30,7 +30,7 @@ export function AboutMe() {
   );
 }
 
-const projectCards = [
+const portfolioCards = [
   {
     id: 1,
     imgLink: ClassManageImg,
@@ -95,12 +95,12 @@ const projectCards = [
   },
 ];
 
-export function Project() {
+export function Portfolio() {
   return (
     <div>
-      <div className="project-container">
-        {projectCards.map((projectCard) => (
-          <CardComp data={projectCard} key={projectCard.id} />
+      <div className="portfolio-container">
+        {portfolioCards.map((portfolioCard) => (
+          <CardComp data={portfolioCard} key={portfolioCard.id} />
         ))}
       </div>
     </div>
@@ -178,7 +178,7 @@ export function Contact() {
     <div className="contact-parent">
       <form className="form contact-container">
         <div className="mb-3">
-          <label className="form-label">Name</label>
+          <label className="form-label">Name </label>
           <input
             value={name}
             name="name"
@@ -190,7 +190,7 @@ export function Contact() {
           />
         </div>
         <div className="mb-3">
-          <label className="form-label">Email</label>
+          <label className="form-label">Email </label>
           <input
             value={email}
             name="email"
@@ -203,7 +203,7 @@ export function Contact() {
           />
         </div>
         <div className="mb-3">
-          <label className="form-label">Message</label>
+          <label className="form-label">Message </label>
           <textarea
             value={message}
             name="message"

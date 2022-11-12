@@ -1,15 +1,27 @@
 import "./App.css";
 import { useState } from "react";
 import Header from "./components/Header";
+import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import Bio from "./components/Bio";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Bio, Portfolio, Contact, Resume } from "./components/Main";
 
 function App() {
+  const [currentPage, setCurrentPage] = useState("React-Bio");
+  const handlePageChange = (page) => setCurrentPage(page);
   return (
-    <div>
-      <Header>
-        <Bio />
-      </Header>
+    <div className="App">
+      <Header />
+      <BrowserRouter>
+        <Navbar currentPage={currentPage} handlePageChange={handlePageChange} />
+        <Routes>
+          <Route path="/React-Bio" element={<Bio />} />
+          <Route path="/My-React-Portfolio" element={<Portfolio />} />
+          <Route path="/Contact" element={<Contact />} />
+          <Route path="Resume" element={<Resume />} />
+        </Routes>
+      </BrowserRouter>
+      <Footer />
     </div>
   );
 }
