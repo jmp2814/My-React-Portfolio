@@ -35,3 +35,6 @@ SO THAT I can assess whether they're a good candidate for an open position
 - THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
 ## Screenshots
+
+![reactPortScreen1](https://user-images.githubusercontent.com/103081923/201449353-d5af97f0-9e90-4d51-855b-c0e8173247b6.JPG)
+![reactPortScreen2](https://user-images.githubusercontent.com/103081923/201449354-939eca25-5937-4c2e-bb23-80ae76ea3e95.JPG)
