@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.63b6bab1.css",
-    "main.js": "/static/js/main.34401223.js",
-    "static/js/787.56d9acf9.chunk.js": "/static/js/787.56d9acf9.chunk.js",
-    "static/media/challenge1.png": "/static/media/challenge1.905f25e4edf3401cc52a.png",
-    "static/media/portAvatar.jpg": "/static/media/portAvatar.c3896083cb24ad64a2c8.jpg",
-    "static/media/Resume Fall_2019_school.pdf": "/static/media/Resume Fall_2019_school.3da70384cdbdd8dae874.pdf",
-    "static/media/searchOne.JPG": "/static/media/searchOne.8e9c2dd60cb27a2867ca.JPG",
-    "static/media/team1.JPG": "/static/media/team1.b8e826a9d7e36abf8e20.JPG",
-    "static/media/classManage.JPG": "/static/media/classManage.860d49eda57771aba0db.JPG",
-    "static/media/moment1.png": "/static/media/moment1.008f698e75f221c5c12e.png",
-    "static/media/note_taker.JPG": "/static/media/note_taker.d3e7573a9a0cfaff03c0.JPG",
-    "static/media/correct.png": "/static/media/correct.846db50bf39e953647f8.png",
-    "index.html": "/index.html",
-    "main.63b6bab1.css.map": "/static/css/main.63b6bab1.css.map",
-    "main.34401223.js.map": "/static/js/main.34401223.js.map",
-    "787.56d9acf9.chunk.js.map": "/static/js/787.56d9acf9.chunk.js.map"
+    "main.css": "/My-React-Portfolio/static/css/main.63b6bab1.css",
+    "main.js": "/My-React-Portfolio/static/js/main.1e50f73c.js",
+    "static/js/787.56d9acf9.chunk.js": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js",
+    "static/media/challenge1.png": "/My-React-Portfolio/static/media/challenge1.905f25e4edf3401cc52a.png",
+    "static/media/portAvatar.jpg": "/My-React-Portfolio/static/media/portAvatar.c3896083cb24ad64a2c8.jpg",
+    "static/media/Resume Fall_2019_school.pdf": "/My-React-Portfolio/static/media/Resume Fall_2019_school.3da70384cdbdd8dae874.pdf",
+    "static/media/searchOne.JPG": "/My-React-Portfolio/static/media/searchOne.8e9c2dd60cb27a2867ca.JPG",
+    "static/media/team1.JPG": "/My-React-Portfolio/static/media/team1.b8e826a9d7e36abf8e20.JPG",
+    "static/media/classManage.JPG": "/My-React-Portfolio/static/media/classManage.860d49eda57771aba0db.JPG",
+    "static/media/moment1.png": "/My-React-Portfolio/static/media/moment1.008f698e75f221c5c12e.png",
+    "static/media/note_taker.JPG": "/My-React-Portfolio/static/media/note_taker.d3e7573a9a0cfaff03c0.JPG",
+    "static/media/correct.png": "/My-React-Portfolio/static/media/correct.846db50bf39e953647f8.png",
+    "index.html": "/My-React-Portfolio/index.html",
+    "main.63b6bab1.css.map": "/My-React-Portfolio/static/css/main.63b6bab1.css.map",
+    "main.1e50f73c.js.map": "/My-React-Portfolio/static/js/main.1e50f73c.js.map",
+    "787.56d9acf9.chunk.js.map": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63b6bab1.css",
-    "static/js/main.34401223.js"
+    "static/js/main.1e50f73c.js"
   ]
 }
