@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/My-React-Portfolio/static/css/main.63b6bab1.css",
-    "main.js": "/My-React-Portfolio/static/js/main.1e50f73c.js",
+    "main.css": "/My-React-Portfolio/static/css/main.a9f2ebdc.css",
+    "main.js": "/My-React-Portfolio/static/js/main.76938537.js",
     "static/js/787.56d9acf9.chunk.js": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js",
     "static/media/challenge1.png": "/My-React-Portfolio/static/media/challenge1.905f25e4edf3401cc52a.png",
     "static/media/portAvatar.jpg": "/My-React-Portfolio/static/media/portAvatar.c3896083cb24ad64a2c8.jpg",
-    "static/media/Resume Fall_2019_school.pdf": "/My-React-Portfolio/static/media/Resume Fall_2019_school.3da70384cdbdd8dae874.pdf",
+    "static/media/code_resume_pdf.pdf": "/My-React-Portfolio/static/media/code_resume_pdf.f9786db1580c42807904.pdf",
     "static/media/searchOne.JPG": "/My-React-Portfolio/static/media/searchOne.8e9c2dd60cb27a2867ca.JPG",
     "static/media/team1.JPG": "/My-React-Portfolio/static/media/team1.b8e826a9d7e36abf8e20.JPG",
     "static/media/classManage.JPG": "/My-React-Portfolio/static/media/classManage.860d49eda57771aba0db.JPG",
@@ -13,12 +13,12 @@
     "static/media/note_taker.JPG": "/My-React-Portfolio/static/media/note_taker.d3e7573a9a0cfaff03c0.JPG",
     "static/media/correct.png": "/My-React-Portfolio/static/media/correct.846db50bf39e953647f8.png",
     "index.html": "/My-React-Portfolio/index.html",
-    "main.63b6bab1.css.map": "/My-React-Portfolio/static/css/main.63b6bab1.css.map",
-    "main.1e50f73c.js.map": "/My-React-Portfolio/static/js/main.1e50f73c.js.map",
+    "main.a9f2ebdc.css.map": "/My-React-Portfolio/static/css/main.a9f2ebdc.css.map",
+    "main.76938537.js.map": "/My-React-Portfolio/static/js/main.76938537.js.map",
     "787.56d9acf9.chunk.js.map": "/My-React-Portfolio/static/js/787.56d9acf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63b6bab1.css",
-    "static/js/main.1e50f73c.js"
+    "static/css/main.a9f2ebdc.css",
+    "static/js/main.76938537.js"
   ]
 }
