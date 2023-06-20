@@ -9,7 +9,7 @@ import NoteImg from "../images/note_taker.JPG";
 import WeatherImg from "../images/searchOne.JPG";
 import TeamImg from "../images/team1.JPG";
 import Avatar from "../images/portAvatar.jpg";
-import resumePDF from "../files/Resume Fall_2019_school.pdf";
+import resumePDF from "../files/code_resume_pdf.pdf";
 
 export function Bio() {
   return (

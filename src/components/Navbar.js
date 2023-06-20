@@ -35,7 +35,7 @@ function Navbar({ currentPage, handlePageChange }) {
         >
           Resume
         </Link>
-        <Link
+        {/* <Link
           onClick={() => handlePageChange("contact")}
           className={
             currentPage === "contact" ? "nav-link active fs-3" : "nav-link fs-3"
@@ -43,7 +43,7 @@ function Navbar({ currentPage, handlePageChange }) {
           to="/contact"
         >
           Contact
-        </Link>
+        </Link> */}
       </nav>
     </div>
   );
